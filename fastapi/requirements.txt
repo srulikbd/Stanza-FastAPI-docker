@@ -1,0 +1,5 @@
+stanza
+fastapi
+pandas
+python-multipart
+xlrd
