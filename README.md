@@ -1,5 +1,14 @@
 # Stanza
 
+This repository wrap stanford stanza wonderful parser, using docker as a container and fastapi for http requests.
+you can change the code inside for determine your desired supported languages.
+installing guide:
+install docker.
+
+for deployment: (terminal commands)
+
+cd /package/directory/
+
 docker-compose build
 
 docker-compose-up
